@@ -30,6 +30,8 @@
     "got": "^11.8.0",
     "husky": "^4.3.0",
     "jest-cli": "^26.6.3",
+    "jest-html-reporters": "^2.1.6",
+    "jest-stare": "^2.2.2",
     "lint-staged": "^10.5.1",
     "node-fetch": "^2.6.1",
     "supertest": "^6.0.1"
