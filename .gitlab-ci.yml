@@ -1,0 +1,10 @@
+stages:
+  - test
+
+api_tests:
+  stage: test
+  image:
+    name: circle/node:14
+  script:
+    - npm install
+    - npm test
